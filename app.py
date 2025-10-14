@@ -4,7 +4,7 @@ import tempfile
 
 st.set_page_config(page_title="Juntar PDFs", page_icon="📚")
 
-st.title("📚 Juntar PDFs Online")
+st.title("📚 Juntar PDFs Online, por Sandro M")
 
 uploaded_files = st.file_uploader("Envie seus arquivos PDF:", type="pdf", accept_multiple_files=True)
 
